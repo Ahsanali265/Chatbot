@@ -8,10 +8,10 @@ This repository contains a Flask application that integrates with OpenAI's model
 # Improvements
 This project is a basic implementation and can be improved in various ways:
 
-Expand the FAQ Database: Add more questions and answers to improve the chatbot's accuracy.
-Advanced Models: Integrate more advanced models for encoding and searching.
-Enhanced User Interface: Improve the frontend design for a better user experience.
-Error Handling: Add more robust error handling and logging mechanisms.
+Add more questions and answers to improve the chatbot's accuracy or use any file format Database or any source of data.
+Integrate more advanced models for encoding and searching.
+Improve the frontend design for a better user experience.
+Add more robust error handling and logging mechanisms.
 
 # Contributing
 Contributions are welcome! Please fork this repository and make a pull request with your changes. Ensure your code follows the project's coding standards.
